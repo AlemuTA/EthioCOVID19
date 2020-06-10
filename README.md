@@ -31,6 +31,7 @@ n <- nrow(df)
 
 Richards four-parameter nonlinear growth model is a very versatile model for describing many growth processes.It was initially proposed to model plant growth. Richards growth model is given by
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" title="C(t) = \frac{\beta_0}{\left(1+\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" title="C(t) = \frac{\beta_0}{\left(1+\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}," /></a>
 
+where C(t) is the cumulative number of cases at time t, &beta_0 is the maximum possible value of the dependent variable or also known as the carrying capacity, &beta_1 is the growth rate, &beta_3 is the allometric constant
 

@@ -31,6 +31,6 @@ n <- nrow(df)
 
 Richards four-parameter nonlinear growth model is a very versatile model for describing many growth processes.It was initially proposed to model plant growth. Richards growth model is given by
 
-$$C(t) = \frac{\beta_0}{\left(1+\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C(t)&space;=&space;\frac{\beta_0}{\left(1&plus;\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" title="C(t) = \frac{\beta_0}{\left(1+\exp(-\beta_1(t-t_m))\right)^{\frac{-1}{B3}}}" /></a>
 
 
